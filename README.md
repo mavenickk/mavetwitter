@@ -33,7 +33,7 @@ Application uses PostgreSQL(relation database) to store user information and the
 **Step 1: Clone the code into a fresh folder**
 
 ```
-$ git clone https://github.com/bmbshlly/django-blogpost.git
+$ git clone https://github.com/mavenickk/mavetwitter.git
 $ cd django-blogpost
 ```
 
@@ -65,4 +65,4 @@ Open http://localhost:8000 (port number is prompted) to view it in your browser.
 The app will automatically reload if you make changes to the code.
 You will see the build errors and warnings in the console.(DEBUG = True)
 
-Try hosted app [here.](https://django-blogpost.herokuapp.com)
+Try hosted app [here.](https://mavetwitter.herokuapp.com)
