@@ -7,8 +7,8 @@
 Mavetwitter is a web application backed by Django where every user can create, update and delete post on the feed(with timestamp). New users can set profile picture(also update later). Users can reset password via registered e-mail.  
 Application uses PostgreSQL(relation database) to store user information and their blogs. AWS is used to store static files(profile picture). Heroku is used for deloyment.
 
-[<img src="https://github.com/bmbshlly/django-blogpost/blob/main/giphy.gif" width="480" height="270">](https://mavetwitter.herokuapp.com/)
-<img src="https://github.com/bmbshlly/django-blogpost/blob/main/reset_pass.png" width="480" height="270">
+[<img src="https://github.com/mavenickk/mavetwitter/blob/master/live.gif" width="600" height="270">](https://mavetwitter.herokuapp.com/)
+
 
 ## Tools:
 - [Bootstrap](https://getbootstrap.com) - A CSS framework
