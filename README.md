@@ -34,7 +34,7 @@ Application uses PostgreSQL(relation database) to store user information and the
 
 ```
 $ git clone https://github.com/mavenickk/mavetwitter.git
-$ cd django-blogpost
+$ cd mavetwitter
 ```
 
 **Step 2: Create a Virtual Environment and install Dependencies**
